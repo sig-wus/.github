@@ -8,7 +8,7 @@ A community effort exploring a Special Interest Group in wearable ultrasound:
 researchers, clinicians, and industry working toward shared standards, events,
 education, and open exchange.
 
-**Website:** https://sig-wus.github.io
+**Website:** https://sig-wus.org
 
 ## Structure
 
